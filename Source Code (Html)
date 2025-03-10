@@ -1,0 +1,164 @@
+<!-- Copyright Notice -->
+<!-- Users can use this landing page as long as they keep my name and GitHub link at the top. -->
+<!-- Created by Djouad Alla Eddine | GitHub: https://github.com/DanielService -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Download Poppy Playtime Chapter 3 - A thrilling horror adventure game full of puzzles and mysteries.">
+    <title>Poppy Playtime Chapter 3 - Download</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 90%;
+            max-width: 800px;
+            margin: auto;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .header {
+            display: flex;
+            align-items: center;
+            padding: 10px 0;
+        }
+        .game-icon {
+            width: 80px;
+            height: 80px;
+            background-color: #ccc;
+            border-radius: 16px;
+            margin-right: 15px;
+        }
+        .game-title {
+            font-size: 24px;
+            font-weight: bold;
+            color: #333;
+        }
+        .game-subtitle {
+            font-size: 14px;
+            color: #777;
+        }
+        button {
+            display: block;
+            width: 90%;
+            padding: 10px;
+            text-align: center;
+            background-color: #34a853;
+            color: #fff;
+            border: none;
+            border-radius: 8px;
+            font-size: 16px;
+            cursor: pointer;
+            margin: 20px auto;
+            text-decoration: none;
+        }
+        button:hover {
+            background-color: #2c8c3a;
+        }
+        .game-info {
+            display: flex;
+            justify-content: space-between;
+            font-size: 14px;
+            color: #777;
+            padding: 10px 0;
+            border-bottom: 1px solid #ddd;
+        }
+        .game-image {
+            width: 100%;
+            height: auto;
+            max-height: 300px;
+            margin: 20px 0;
+        }
+        .game-description {
+            font-size: 16px;
+            color: #555;
+            margin: 20px 0;
+        }
+        .review-section {
+            margin-top: 20px;
+        }
+        .review {
+            border-top: 1px solid #ddd;
+            padding: 15px 0;
+        }
+        .review-name {
+            font-weight: bold;
+            color: #333;
+        }
+        .footer {
+            text-align: center;
+            padding: 10px 0;
+            color: #555;
+            font-size: 14px;
+            border-top: 1px solid #ddd;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="header">
+        <div class="game-icon">
+            <img src="https://i.postimg.cc/Vsp6K9TG/3ac645931328e4ca5a7775db1164c09fef421589e6a50b88-1.avif" alt="Game Icon" style="width: 100%; height: 100%; border-radius: 16px;">
+        </div>
+        <div>
+            <h1 class="game-title">Poppy Playtime Chapter 3</h1>
+            <div class="game-subtitle">Adventure • Playtime Studios</div>
+        </div>
+    </div>
+    
+    <a href="https://example.com/download" target="_blank">
+        <button>Download</button>
+    </a>
+
+    <div class="game-info">
+        <span>⭐ 4.5 (12,345 reviews)</span>
+        <span>📥 125,000+ downloads</span>
+        <span>🔞 Rated 13+</span>
+    </div>
+
+    <div class="game-image">
+        <img src="https://i.postimg.cc/LXVtzCvb/hq720.jpg" alt="Game Cover Image" style="width: 100%; height: auto; max-height: 300px;">
+    </div>
+
+    <div class="game-description">
+        <h3>About this Game</h3>
+        <ul>
+            <li>Explore eerie environments filled with mysteries and danger.</li>
+            <li>Engage in challenging puzzles and unique gameplay mechanics.</li>
+            <li>Uncover the dark secrets of Poppy Playtime and its characters.</li>
+            <li>Survive thrilling moments with strategic planning and quick reactions.</li>
+        </ul>
+    </div>
+
+    <div class="review-section">
+        <h3>User Reviews</h3>
+        <div class="review">
+            <div class="review-name">Michel</div>
+            <p>Amazing game! Keeps you on the edge of your seat.</p>
+        </div>
+        <div class="review">
+            <div class="review-name">Suzan35</div>
+            <p>The graphics and storyline are incredibly immersive.</p>
+        </div>
+        <div class="review">
+            <div class="review-name">Patrick McColne</div>
+            <p>Challenging and fun! Can't wait for the next chapter.</p>
+        </div>
+    </div>
+
+    <div class="footer">
+        © 2024/2025 Poppy Playtime, Inc. All rights reserved.
+    </div>
+</div>
+
+</body>
+</html>
